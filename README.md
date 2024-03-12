@@ -1,7 +1,3 @@
-Tabii, işte projeniz için bir README dosyası örneği:
-
----
-
 # Ionic Angular Anime List App
 
 This project is an anime listing application developed using Ionic Angular. The application lists anime without accessing native features.
